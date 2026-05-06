@@ -26,7 +26,6 @@ const Dashboard = () => {
         <div>
           <span className="eyebrow">Dashboard</span>
           <h1>Welcome back, Ashii!</h1>
-          <p>Here is a simple after-login area for your project.</p>
         </div>
         <Link className="primary-button" to="/contact">Ask for support</Link>
       </div>
